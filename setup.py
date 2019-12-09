@@ -55,7 +55,7 @@ setup(
     install_requires=[
         'graphene-django==2.6.0',
         'graphene-django-extras>=0.3.0',
-        'channels-api>=0.4.0'
+        'channels-api>=0.4.1'
         'asgiref~=3.0'
     ],
     include_package_data=True,
